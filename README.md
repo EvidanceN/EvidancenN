@@ -1,6 +1,6 @@
 # Hello there! I'm Experience Evidance Ndlovu
 
- Aspiring data analsyt || font-end web developer
+ Aspiring data analsyt || Data Scientist || Font-end web developer
  
 💖 recent graduate with a Bachelor of Information and Communication Technology.
 💥have knowledge in using Python (Pandas, NumPy, Matplotlib, Seaborn) libriaries for data cleaning, exploration, and visualization.

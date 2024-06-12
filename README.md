@@ -1,4 +1,4 @@
-# Hello there! I'm Experience Evidance Ndlovu
+# Hello there! I'm Evidance Ndlovu
 
  Aspiring data analsyt || Data Scientist || Font-end web developer
  
